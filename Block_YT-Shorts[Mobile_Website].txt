@@ -1,9 +1,10 @@
-! Title: YT Shorts Blocker Mobile [Web]
-! Version: 1
+! Title: Block_YT-Shorts[Mobile_Website]
+! Version: 1.1
 ! 2024-02-08 https://m.youtube.com
 m.youtube.com##.pivot-shorts.pivot-bar-item-tab
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 m.youtube.com##.multi-page-menu-system-link
 m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(5)
+m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(6)
 m.youtube.com##.reel-shelf-items
 m.youtube.com##.reel-shelf-header
