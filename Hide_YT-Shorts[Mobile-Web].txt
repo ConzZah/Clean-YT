@@ -1,6 +1,7 @@
 ! Title: Hide_YT-Shorts[Mobile-Web]
-! Version: 1.2
-! 2024-02-08 https://m.youtube.com
+! Version: 1.3 [updated: 2024-02-08]
+! Expires: 2 days
+! https://m.youtube.com
 m.youtube.com##.pivot-shorts.pivot-bar-item-tab
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 m.youtube.com##.reel-shelf-items
