@@ -1,0 +1,7 @@
+! Title: Hide-YT-Shorts[Desktop]
+! Version: 1 
+! [updated: 2024-02-09]
+! Expires: 2 days
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+youtube.com##yt-tab-shape:has-text(/^Shorts$/)

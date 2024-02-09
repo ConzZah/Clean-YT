@@ -1,0 +1,17 @@
+! Title: Hide-YT-Shorts[Mobile-Web]
+! Version: 1.4
+! [updated: 2024-02-09]
+! Expires: 2 days
+m.youtube.com##.pivot-shorts.pivot-bar-item-tab
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+m.youtube.com##.reel-shelf-items
+m.youtube.com##.reel-shelf-header
+m.youtube.com##ytm-menu-item:nth-of-type(4)
+m.youtube.com##ytm-menu-item:nth-of-type(5)
+m.youtube.com##ytm-menu-item:nth-of-type(6)
+m.youtube.com##ytm-menu-item:nth-of-type(7)
+m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(4)
+m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(5)
+m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(6)
+m.youtube.com##.multi-page-menu-system-link
+m.youtube.com##.multi-page-menu-system-link-list
