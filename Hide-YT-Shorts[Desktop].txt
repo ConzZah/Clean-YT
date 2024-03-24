@@ -1,5 +1,5 @@
 ! Title: Hide-YT-Shorts[Desktop] [ Author: ConzZah ]
-! Version: 1.3 
+! Version: 1.4 
 ! Description: This filter list removes yt-shorts and hides useless clutter from the menus of youtube.com.
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(3)
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
@@ -7,6 +7,7 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com###dismissible > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##.yt-tab-group-shape-wiz__slider
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
