@@ -1,5 +1,5 @@
 ! Title: Clean-YT  [Mobile-Web]  [ Author: ConzZah ]
-! Version: 1.4.3
+! Version: 1.5
 ! [ last updated: 30.03.2024 ]
 ! Expires: 2 days
 m.youtube.com##.pivot-shorts.pivot-bar-item-tab
@@ -18,3 +18,4 @@ m.youtube.com##ytm-multi-page-menu-section-renderer:nth-of-type(6)
 m.youtube.com##.multi-page-menu-system-link
 m.youtube.com##.yt-tab-group-shape-wiz__slider
 m.youtube.com##.multi-page-menu-system-link-list
+m.youtube.com##ytm-media-item:has-text(SHORTS)
