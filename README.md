@@ -1,23 +1,32 @@
-# CLEAN-YT ( filter-list for use with u-block origin ) 
+# CLEAN-YT ( uBlock Origin filter list ) 
+
 ## Description:
 ### these filter lists remove yt-shorts and useless clutter from the menus of youtube.com 
 
-## **direct links:**
+## **DOWNLOAD CLEAN-YT:**
 
 ### CLEAN-YT DESKTOP:
 
-- https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BDesktop%5D.txt
+-     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BDesktop%5D.txt
 
-### CLEAN-YT MOBILE:
+### CLEAN-YT ANDROID:
 
-- https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BMobile-Web%5D.txt
+-     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BAndroid%5D.txt
+
+### CLEAN-YT iOS:
+
+-     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BiOS%5D.txt
+
+    **^ (use with brave browser) ^**
+
+( NOTE: Brave currently doesn't support procedural cosmetic filtering such as :has-text(foo) , 
+so i split the mobile version & made a seperate one for ios. )
 
 ## SETUP INSTRUCTIONS: ( under construction )
-This project consists of two files:
-- one is for the Desktop version of Youtube
-- the other for the mobile web version.
+
 
 these filter lists and are intended to be used with ublock origin, but u can also use brave if on ios.
+
 
 ### setup on desktop:
 - Download the ublock origin addon for either firefox or chrome.
@@ -30,5 +39,5 @@ these filter lists and are intended to be used with ublock origin, but u can als
 - **if on ios:** use brave browser  ( adding setup instructions for brave soon ) 
 
 
-( re adding screenshots soon )
+( adding screenshots soon )
 
