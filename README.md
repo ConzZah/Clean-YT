@@ -7,15 +7,15 @@
 
 ### CLEAN-YT DESKTOP:
 
--     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BDesktop%5D.txt
+- https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BDesktop%5D.txt
 
 ### CLEAN-YT ANDROID:
 
--     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BAndroid%5D.txt
+- https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BAndroid%5D.txt
 
 ### CLEAN-YT iOS:
 
--     https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BiOS%5D.txt
+- https://raw.githubusercontent.com/ConzZah/Clean-YT/main/Clean-YT%20%5BiOS%5D.txt
 
     **^ (use with brave browser) ^**
 
