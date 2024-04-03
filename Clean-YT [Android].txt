@@ -1,4 +1,4 @@
-! Title: Clean-YT [Mobile-Web] v1.6 [ Author: ConzZah ]
+! Title: Clean-YT [Android] v1.6 [ Author: ConzZah ]
 ! Version: 1.6
 ! [ last updated: 03.04.2024 ]
 ! Expires: 2 days
